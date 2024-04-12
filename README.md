@@ -1,6 +1,6 @@
-#I WANNA MAKE A WEBSITE THAT GENERATES DAILY CAMEL IN ASCII (BECAUSE IT'S ABSURD)
+# I WANNA MAKE A WEBSITE THAT GENERATES DAILY CAMEL IN ASCII (BECAUSE IT'S ABSURD)
 
-##How Will I archieve this ambitious task?
+## How Will I archieve this ambitious task?
 No idea! But will figure it out sooner than later
 
 ##**POTENTIAL PLAN:**
